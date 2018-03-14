@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/mode_select.unity
+    guid: d4a53f604ba7626468dcbc3fad2576b3
+  - enabled: 1
+    path: Assets/mode_select v1.1.unity
+    guid: 8e3cf91303256644ba56d176409b6d66
+  - enabled: 0
+    path: Assets/LeapMotion/Scenes/Leap_Hands_Demo_AR.unity
+    guid: 480afe764b344a64688bf3a502bc612a
+  - enabled: 0
+    path: Assets/LeapMotion/Scenes/Leap_Hands_Demo_Desktop.unity
+    guid: e97e5c56326797c41be5a618cde4727a
+  - enabled: 0
+    path: Assets/LeapMotion/Scenes/Leap_Hands_Demo_VR.unity
+    guid: b8716ea72d45ecc4f9d690226f6664d1
+  - enabled: 0
+    path: 
+    guid: b16a308561b9e1a489b0d6ec32aadef2
+  - enabled: 0
+    path: 
+    guid: 2a9717e5df763b74fb5d1e358eb1320d
+  - enabled: 0
+    path: 
+    guid: fb4fa0ede32265245ad35af8b6dc355c
+  - enabled: 0
+    path: 
+    guid: cf58860c2252589428b89c72d4270765
+  - enabled: 0
+    path: Assets/Scenes/v1.4a ClientLeap_Hands_Demo_Desktop.unity
+    guid: cd82cbcbef72c8948b2192958b4db0aa
+  - enabled: 0
+    path: Assets/Scenes/v1.4b HostLeap_Hands_Demo_Desktop.unity
+    guid: ea2b86132ea5d3442b0e7104bbdb4d3b
+  - enabled: 1
+    path: Assets/v1.5 SystemPlay_Leap_Hands_Demo_Desktop.unity
+    guid: 6ac0578a8a2e2254dbdc6a624f63db08

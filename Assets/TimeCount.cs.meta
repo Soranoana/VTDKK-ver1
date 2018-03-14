@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c6deee1e2f5d1274eb10fed0278f39f2
+timeCreated: 1499925619
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fingerBottunL: {fileID: 1609418519695170, guid: 9212ea8758b8cee459c86f7864016632,
+      type: 2}
+  - fingerBottunR: {instanceID: 0}
+  - fingerBottunLForClone: {instanceID: 0}
+  - fingerBottunRForClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

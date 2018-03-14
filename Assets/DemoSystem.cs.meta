@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0754f922227f2644a96800ddf4614de6
+timeCreated: 1499942443
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {fileID: 1702559123083498, guid: d2dab59279957f340a218f3c1dfb2a20, type: 2}
+  - deside: {fileID: 8300000, guid: 7cc7bf94d0c314645827e42353692895, type: 3}
+  - delete: {fileID: 8300000, guid: b0411b2fa7152f44b964bd2bcb9f3089, type: 3}
+  - change: {fileID: 8300000, guid: 0da2a9bc1046d4a44be416cd4cdc5548, type: 3}
+  - clear: {fileID: 8300000, guid: b2141d083cce59849aeca2abc82c982e, type: 3}
+  - pose: {fileID: 8300000, guid: ab9612aecc5ecc1439dad15e8347c2c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
