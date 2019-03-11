@@ -1,0 +1,13 @@
+﻿#pragma kernel CSMain
+
+//座標を受け渡ししたい
+//基本的にGPUのデータをCPU側に渡すために使います
+RWStructuredBuffer<float> Result;
+
+float positionX;
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID) {
+	//座標を移動させたい
+	Result[0] = positionX + 0.01f;
+}

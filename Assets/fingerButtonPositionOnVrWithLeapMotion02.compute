@@ -1,0 +1,16 @@
+﻿//fingerButtonR用
+#pragma kernel CSMain
+
+RWStructuredBuffer<float> Result;
+
+float positionX;
+float positionY;
+float positionZ;
+
+[numthreads(8, 8,1)]
+void CSMain(uint3 id : SV_DispatchThreadID) {
+	Result[0] = positionX;
+	Result[1] = positionY;
+	Result[2] = positionZ;
+}
+
